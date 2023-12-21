@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/boughanmi salim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boughanmi salim" height="30" width="40" /></a>
-<a href="https://fb.com/salim boughanmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salim boughanmi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/boughanmi-salim-2a6252163/" target="_blank">LinkedIn</a>
+  <!-- Vous pouvez ajouter d'autres liens ici -->
 </p>
 
 
